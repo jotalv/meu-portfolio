@@ -1,0 +1,127 @@
+
+.text-center {
+    text-align: center;
+    margin: auto;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.left {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.big {
+    font-size: 74px;
+}
+
+.med {
+    font-size: 48px;
+}
+
+.small {
+    font-size: 24px;
+}
+
+.m-a {
+    margin: auto;
+}
+
+.w-100 {
+    width: 100%;
+}
+.w-90 {
+    width: 90%;
+}
+.w-85 {
+    width: 85%;
+}
+
+.w-75 {
+    width: 75%;
+}
+
+.w-65 {
+    width: 65%;
+}
+
+.w-60 {
+    width: 60%;
+}
+
+.w-55 {
+    width: 50%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-45 {
+    width: 45%;
+}
+
+.w-40 {
+    width: 40%;
+}
+
+.w-35 {
+    width: 35%;
+}
+
+.w-30 {
+    width: 35%;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.w-10 {
+    width: 10%;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.mt-5{
+    margin-top: 5%;
+}
+
+.mt-3{
+    margin-top: 3%;
+}
+
+.mt-1{
+    margin-top: 1%;
+}
+
+.mt-7{
+    margin-top: 7%;
+}
+
+.mt-10{
+    margin-top: 10%;
+}
+
+.debug{
+    border: 1px solid black;
+}
+.debug-red{
+    border: 1px solid red;
+}
+.debug-blue{
+    border: 1px solid rgb(38, 0, 255);
+}
+.debug-green{
+    border: 1px solid rgb(30, 255, 0);
+}

@@ -2,9 +2,14 @@ import React from "react";
 
 function SobreMim(){
     return(
-        <>
-        Conteúdo Sobre Mim
-        </>
+        <table>
+            <tr className="border">
+                <td>
+                    hjhajsfhjash
+                </td>
+            </tr>
+        </table>
+    
     );
 }
 

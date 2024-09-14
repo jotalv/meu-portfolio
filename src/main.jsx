@@ -12,6 +12,7 @@ import {
 import SobreMim from './pages/sobremim';
 import Home from './pages/home';
 import Contato from './pages/Contato';
+import Button from 'react-bootstrap/Button';
 
 const router = createBrowserRouter([
   {
@@ -47,3 +48,4 @@ createRoot(document.getElementById('root')).render(
 
   </StrictMode>,
 )
+
